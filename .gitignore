@@ -1,0 +1,15 @@
+#ignore .metadata
+.metadata
+.classpath
+.gitignore
+.project
+.settings/
+bin/
+gen/
+lint.xml
+proguard-project.txt
+
+
+#ignore obj and lib file
+
+*.[oa]
